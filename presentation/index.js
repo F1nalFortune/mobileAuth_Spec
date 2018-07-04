@@ -243,7 +243,7 @@ export default class Presentation extends React.Component {
               gitHub
             </Heading>
             <Text lineHeight={2} style={fontStyle}>
-              https://github.com/F1nalFortune/coinCheck_Spec
+              https://github.com/F1nalFortune/mobileAuth_Spec
             </Text>
           </Slide>
         </Deck>
